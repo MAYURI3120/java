@@ -1,3 +1,3 @@
 # java
 My First Git Repo..!!
-Learning with Git..!!
+Learning && exploring with Git..!!
